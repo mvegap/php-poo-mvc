@@ -8,5 +8,5 @@ Sistema de agenda de clientes desarrollado en PHP utilizando la librería Datata
 * [Bootstrap](http://getbootstrap.com/) - Bootstrap Library for frontend design
 
 ## Authors
-* **Miguel Vega** - *Initial work* 
-* **Victor Sotomayor** - *Second work*
+* **Miguel Vega** - *Universidad Científica del Sur* 
+* **Victor Sotomayor** - *Universidad Científica del Sur*
