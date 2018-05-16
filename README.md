@@ -5,3 +5,8 @@ Sistema de agenda de clientes desarrollado en PHP utilizando la librería Datata
 
 ## Frameworks utilizados
 * [Datatables](https://datatables.net/) - Tablas dinámicas de datos
+* [Bootstrap](http://getbootstrap.com/) - Bootstrap Library for frontend design
+
+## Authors
+* **Miguel Vega** - *Initial work* 
+* **Victor Sotomayor** - *Second work*
